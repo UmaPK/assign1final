@@ -25,7 +25,7 @@
     font-style: oblique;
     font-weight: bolder;
     text-align: center;
-    text-shadow: 2px 2px 5px white;
+    /*text-shadow: 2px 2px 5px white;*/
     margin-top:-44;
     margin-left: 10;
   }
@@ -115,7 +115,7 @@
   {
       background-color: #1ABC9C;
       font-family: 'Roboto Condensed', sans-serif;
-      text-shadow: 2px 2px 5px black;
+      /*text-shadow: 2px 2px 5px black;*/
       text-align: center;
       font-size: 18;
   }
@@ -301,7 +301,7 @@
     /*padding: 2px 39px;*/
     border-radius: 5px;
     /*font-size: 14px;*/
-    text-shadow: 0 1px 6px #fff;
+    /*text-shadow: 0 1px 6px #fff;*/
 }
 .p1
 {
@@ -333,7 +333,7 @@
     padding-bottom: 5px;
     margin-top: -5px;
     background-color:#CCC;
-    text-shadow: 2px 2px 5px black;
+    /*text-shadow: 2px 2px 5px black;*/
     background: linear-gradient(to bottom, black 45%,#CCC 100%);
     color: white;
     border-radius: 5px;
@@ -350,7 +350,11 @@
     border-radius: 5px;
     padding-left: 0px;
     padding-right: 0px;
-    text-shadow: 2px 2px 5px black;
+    /*text-shadow: 2px 2px 5px black;*/
+  }
+  #copy
+  {
+    color: white;
   }
   li hover
   {
